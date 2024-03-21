@@ -1,0 +1,27 @@
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore build and compiled files
+/build/
+/dist/
+*.jar
+*.class
+
+# Ignore package-lock.json for npm projects
+package-lock.json
+
+# Ignore environment files
+.env
+.env.local
+.env.test
+.env.prod
+
+# Ignore log files
+*.log
+
+# Ignore dependencies
+node_modules/
