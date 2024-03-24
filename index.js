@@ -87,12 +87,14 @@ class ProjectX {
 
 // Usage example
 const projectX = new ProjectX();
-const inputData = /* Provide input data */;
+// Example input data, replace with actual data
+const inputData = { /* your input data */ };
 const result = projectX.processData(inputData);
 console.log(result);
 
 module.exports = ProjectX;
 
+// Express server setup
 const express = require('express');
 const bodyParser = require('body-parser');
 const ProjectX = require('./index');
