@@ -30,7 +30,12 @@
     "tea-oolong": "^1.8.0",
     "tea-puerh": "^4.0.0",
     "tea-matcha": "^2.3.0",
-    "tea-hojicha": "^1.6.0"
+    "tea-hojicha": "^1.6.0",
+    "tea-advanced": "^1.0.0",
+    "tea-blockchain-02": "^1.0.0",
+    "tea-nativcure": "^2.0.0",
+    "tea-ersonalized": "^1.0.0",
+    "tea-gmentede": "^2.1.1"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
